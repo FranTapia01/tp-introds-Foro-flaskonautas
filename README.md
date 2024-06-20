@@ -21,14 +21,16 @@ This project is a practical work for the "Introduction to Software Development" 
     cd Client
     ```
 
-2. Run the init script:
+2. create virtual environment with pipenv:
     ```bash
-    ./init.sh
+    mkdir .venv
+    pipenv install
+    pipenv shell
     ```
 
 3. Run app:
     ```bash
-    flask run -p 5001
+    python app.py
     ```
 
 ## Back End Installation Guide
@@ -40,14 +42,16 @@ This project is a practical work for the "Introduction to Software Development" 
     cd API
     ```
 
-2. Run the init script:
+2. create virtual environment with pipenv:
     ```bash
-    ./init.sh
+    mkdir .venv
+    pipenv install
+    pipenv shell
     ```
 
 3. Run app:
     ```bash
-    flask run -p 5000
+    python app.py
     ```
 
 ## DB Installation Guide
@@ -70,6 +74,7 @@ This project is a practical work for the "Introduction to Software Development" 
 - Pillow
 - Werkzeug
 - requests
+- python-dotenv
 
 ## API Endpoints
 
