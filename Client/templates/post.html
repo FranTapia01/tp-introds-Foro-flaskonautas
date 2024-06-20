@@ -35,7 +35,7 @@
                 <section class="mb-5" style="text-align: justify;">
                     {{ post['body'] }}
                   {% if post['image_link'] %}
-                    <img style="width:100%;" src="{{ url_for('static', filename='/images/posts-images/' + post['image_link']) }}" />
+                    <img class="image-post" src="{{ url_for('static', filename='/images/posts-images/' + post['image_link']) }}" />
                     {% endif %}
                 </section>
                 <!-- Sección de comentarios -->

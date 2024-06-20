@@ -891,6 +891,7 @@ footer h4 {
     transition: 0.5s;
     background-color: #253760;
     margin-top: 8px;
+    border: 0;
 }
 
 .btn-go-to-lp:hover{
@@ -1163,6 +1164,13 @@ footer h4 {
 
 
 /* posts */
+
+.image-post {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
 
 .col-lg-12 {
   flex: 0 0 auto;
