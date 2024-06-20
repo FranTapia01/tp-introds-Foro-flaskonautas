@@ -54,12 +54,13 @@ This project is a practical work for the "Introduction to Software Development" 
     python app.py
     ```
 
-## DB Installation Guide
+## DB Installation Guide Docker
 
 1. Create the container:
     ```bash
     cd Database_initializer
-    ./init.sh
+    cd docker
+    docker compose up --build -d
     ```
 
 2. Connect to the MySQL database:
