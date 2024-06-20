@@ -28,7 +28,7 @@ This project is a practical work for the "Introduction to Software Development" 
 
 3. Run app:
     ```bash
-    flask run -p 5000
+    flask run -p 5001
     ```
 
 ## Back End Installation Guide
@@ -47,7 +47,7 @@ This project is a practical work for the "Introduction to Software Development" 
 
 3. Run app:
     ```bash
-    flask run -p 5001
+    flask run -p 5000
     ```
 
 ## DB Installation Guide
