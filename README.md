@@ -93,3 +93,14 @@ This project is a practical work for the "Introduction to Software Development" 
 - `PATCH /update_response`: Actualizar una respuesta.
 - `DELETE /delete_post`: Eliminar una publicación.
 - `DELETE /delete_response`: Eliminar una respuesta.
+
+## Preview
+
+![Home Page](assets/home_page.png)
+![Categories Page](assets/another_page.png)
+![Technology Page](assets/another_page.png)
+![Login Page](assets/another_page.png)
+![Sign up Page](assets/another_page.png)
+![Post Page](assets/another_page.png)
+![Latest Posts Page](assets/another_page.png)
+![User Page](assets/another_page.png)
