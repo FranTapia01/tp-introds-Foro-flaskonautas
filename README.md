@@ -12,6 +12,17 @@ This project is a practical work for the "Introduction to Software Development" 
 - User-friendly client interface
 - Database initialization and management
 
+## Preview
+
+[Home Page](assets/home_page.png) 
+[Categories Page](assets/categories_page.png) 
+[Technology Page](assets/technology_page.png) 
+[Login Page](assets/signin_page.png) 
+[Sign up Page](assets/signup_page.png) 
+[Post Page](assets/post_page.png) 
+[Latest Posts Page](assets/latest_post_page.png) 
+[User Page](assets/user_page.png)
+
 ## Front End Installation Guide
 
 1. Clone the repository:
@@ -94,13 +105,4 @@ This project is a practical work for the "Introduction to Software Development" 
 - `DELETE /delete_post`: Eliminar una publicación.
 - `DELETE /delete_response`: Eliminar una respuesta.
 
-## Preview
 
-[Home Page](assets/home_page.png) 
-[Categories Page](assets/categories_page.png) 
-[Technology Page](assets/technology_page.png) 
-[Login Page](assets/signin_page.png) 
-[Sign up Page](assets/signup_page.png) 
-[Post Page](assets/post_page.png) 
-[Latest Posts Page](assets/latest_post_page.png) 
-[User Page](assets/user_page.png)
